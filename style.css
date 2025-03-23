@@ -1,0 +1,20 @@
+.container{
+    margin:20px auto;
+    padding: 20px;
+    text-align: center;
+}
+
+#counter{
+    display: block;
+    margin: 10px auto;
+}
+
+#btnCount{
+    color:white;
+    background-color: blue;
+    padding: 10px;
+}
+
+#btnCount:hover{
+    cursor: pointer;
+}
